@@ -1,4 +1,4 @@
-    {
+ [   {
       "id": 1,
       "name": "Espresso",
       "description": "A concentrated coffee beverage brewed by forcing hot water through finely-ground coffee beans.",
@@ -67,4 +67,4 @@
       "description": "A dessert coffee made by pouring a shot of hot espresso over a scoop of vanilla ice cream.",
       "ingredients": ["Espresso", "Vanilla ice cream"],
       "brewingMethod": "Espresso machine"
-    }
+    }]
